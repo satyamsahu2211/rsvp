@@ -8,6 +8,7 @@
     "dev": "nodemon server.js",
     "init-db": "node scripts/initDB.js",
     "seed": "node scripts/seedDB.js",
+    "build" : "npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["event", "management", "api", "mongodb"],
